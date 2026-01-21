@@ -33,7 +33,7 @@ Este é um repositório pessoal documentando minha jornada de 6 meses transforma
 # Veja anotações da Fase 1 
 ls notes/1-FASE1/ 
 # Leia um tópico específico
-cat notes/1-FASE1/Semana1/componentes_fisicos.md`
+cat notes/1-FASE1/Semana1/componentes_fisicos.md
 ```
 
 ## ⚡ TL;DR
