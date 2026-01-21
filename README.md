@@ -43,3 +43,4 @@ Este repositório documenta minha transformação em **6 meses** de iniciante 
 **Comece pelo:** `roadmap/roadmap_principal.md`
 
 - **Twitter:** [@secatul_com](https://twitter.com/secatul_com)
+- Youtube: [Secatul](https://www.youtube.com/@secatuldotcom)
