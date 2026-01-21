@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "notes/📝-TEMPLATES/template-simples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "template-simples"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "notes/📝-TEMPLATES/template-simples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for template-simples"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "notes/📝-TEMPLATES/template-simples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from template-simples"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "notes/📝-TEMPLATES/template-simples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of template-simples"
             }
           }
         ]
@@ -199,12 +199,13 @@
   },
   "active": "a00c1ab1a361686a",
   "lastOpenFiles": [
+    "notes/📝-TEMPLATES/template-anotacoes.md",
+    "notes/📝-TEMPLATES/template-simples.md",
+    "README.md",
+    "notes/0-PRE-ROADMAP/Semana1/componentes_fisicos.md",
     "roadmap/roadmap_semanal_horarios.md",
     "notes/📚-RECURSOS/Security+/Links.md",
-    "notes/0-PRE-ROADMAP/Semana1/componentes_fisicos.md",
     "roadmap/roadmap_principal.md",
-    "notes/📝-TEMPLATES/Enquanto aprende.md",
-    "README.md",
     "notes/0-PRE-ROADMAP/Semana1",
     "notes/🖼️ -ASSETS",
     "notes/Checklist.md",
