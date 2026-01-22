@@ -14,7 +14,7 @@ Link 02: https://youtu.be/IEYFlGLAhyo
 A CPU (Central Processing Unit) se comporta como um cérebro para o computador.
 #### O que faz + Analogia
 Executa, Performa cálculos 
-![CPU como cérebro](../../../ASSETS🖼️/cpu-analogia-cerebro.svg)
+![CPU como cérebro](../../../ASSETS🖼️/CPU-analogia-cerebro.svg)
 Link: https://excalidraw.com/#json=S_tR54hvZgY5EnhKMhr2k,ww-jMAxHlU3AT8v5hs18Xw
 
 ## 🔍 Conceito Principal 1
