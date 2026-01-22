@@ -33,23 +33,35 @@ Link: https://excalidraw.com/#json=SKBk1p5zOQqXdnva9J0OK,OyJrS0cLUhLS601JTQw58g
 
 Imagem retirada do vídeo: https://www.youtube.com/watch?v=IEYFlGLAhyo
 ![Estrutura da CPU – Arquitetura de Von Neumann](../../../ASSETS🖼️/CPU_Structure_von-neumann_architecture.jpg)
-Entenda a arquitetura de Von Neumann aqui: 
-#### ALU - Arithmetic Logic Unit
-Faz contas aritméticas e lógicas (AND, OR, XOR)
+Entenda a arquitetura de Von Neumann aqui: https://www.youtube.com/shorts/0IadYIIgrMI
 
-Analogia: 🖐️(Mão)
-#### CU - Control Unit
-Controla o que fazer e quando fazer.
+## 🧠 Componentes da CPU
+### 🔹 ALU — Arithmetic Logic Unit
+- **Função:**  
+  Realiza operações aritméticas e lógicas (AND, OR, XOR).
+- **Analogia:**  
+  🖐️ Mão: executa o trabalho direto.
 
-Analogia: 📜(Livro de receitas)
-#### Registers
-Seguram os dados que estão sendo utilizados no momento
+---
+### 🔹 CU — Control Unit
+- **Função:**  
+  Controla o que fazer e quando fazer.
+- **Analogia:**  
+  📜 Livro de receitas: decide os passos.
 
-Analogia: 🍯(Pote)
-#### Cache 
-É uma memória rápida que guarda os dados que foram usados recentemente.
+---
+### 🔹 Registers
+- **Função:**  
+  Armazenam os dados que estão sendo usados no momento.
+- **Analogia:**  
+  🍯 Pote: acesso rápido.
 
-Analogia:🧄🧅🫚🌶️(Ingredientes e temperos que são frequentemente utilizados)
+---
+### 🔹 Cache
+- **Função:**  
+  Memória rápida que guarda dados usados recentemente.
+- **Analogia:**  
+  🧄🧅🫚🌶️ Ingredientes e temperos sempre à mão e frequentemente utilizados.
 
 ---
 ### Ciclo Fetch-Decode-Execute
@@ -82,18 +94,18 @@ Quanto mais rápido + operações por segundo
 ### Núcleos/Cores
 Quanto mais cores, mais instruções por vez:
 
-**Single-core (1 núcleo)**:
-├─ Executa 1 instrução por vez
-Exemplo: CPU anos 2000
+- **Single-core (1 núcleo):**
+  - Executa 1 instrução por vez
+  - Exemplo: CPU anos 2000
 
-**Dual-core (2 núcleos)**:
-├─ Executa 2 instruções por vez
-Mais rápido que Single-core
+- **Dual-core (2 núcleos):**
+  - Executa 2 instruções por vez
+  - Mais rápido que Single-core
 
-**Quad-core (4 núcleos)**:
-├─ Executa 4 instruções em paralelo
-└─ Computadores mais modernos
-
+- **Quad-core (4 núcleos):**
+  - Executa 4 instruções em paralelo
+  - Computadores mais modernos
+  
 > Quanto mais cores + cérebros seu CPU possui.
 
 ---
