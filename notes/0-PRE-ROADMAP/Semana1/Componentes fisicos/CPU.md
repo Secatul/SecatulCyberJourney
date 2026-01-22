@@ -14,8 +14,7 @@ Link 02: https://youtu.be/IEYFlGLAhyo
 A CPU (Central Processing Unit) se comporta como um cérebro para o computador.
 #### O que faz + Analogia
 Executa, Performa cálculos 
-
-![[CPU-analogia-cerebro.svg]]
+![CPU como cérebro](../../../ASSETS🖼️/cpu-analogia-cerebro.svg)
 Link: https://excalidraw.com/#json=S_tR54hvZgY5EnhKMhr2k,ww-jMAxHlU3AT8v5hs18Xw
 
 ## 🔍 Conceito Principal 1
@@ -25,7 +24,7 @@ Link: https://excalidraw.com/#json=S_tR54hvZgY5EnhKMhr2k,ww-jMAxHlU3AT8v5hs18Xw
 > CPU é um componente do computador capaz de executar todas instruções que rodam no sistema.
 
 Localizado dentro da Placa-mãe: 
-![[placa-mae+cpu.svg]]
+![Placa-mãe com CPU](../../../ASSETS🖼️/placa-mae+cpu.svg)
 Link: https://excalidraw.com/#json=SKBk1p5zOQqXdnva9J0OK,OyJrS0cLUhLS601JTQw58g
 ### Como funciona?
 
@@ -33,7 +32,7 @@ Link: https://excalidraw.com/#json=SKBk1p5zOQqXdnva9J0OK,OyJrS0cLUhLS601JTQw58g
 > Receber um **Input** (Entrada) de algum dispositivo conectado no computador, fazer certos cálculos e retornar um **Output** (Saída) para outro dispositivo
 
 Imagem retirada do vídeo: https://www.youtube.com/watch?v=IEYFlGLAhyo
-![[CPU_Structure_von-neumann_architecture.jpg]]
+![Estrutura da CPU – Arquitetura de Von Neumann](../../../ASSETS🖼️/CPU_Structure_von-neumann_architecture.jpg)
 Entenda a arquitetura de Von Neumann aqui: 
 #### ALU - Arithmetic Logic Unit
 Faz contas aritméticas e lógicas (AND, OR, XOR)
