@@ -6,3 +6,5 @@
   https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
 - **Linux Survival** — Tutorial interativo focado em sobrevivência no terminal.  
   https://linuxsurvival.com/
+- **CMD Challenge** — Desafios rápidos para treinar comandos de shell direto no navegador.  
+  https://cmdchallenge.com/
