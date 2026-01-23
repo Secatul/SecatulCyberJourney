@@ -33,12 +33,12 @@
 
 ### Dias Leves (Ter/Qui = 160 min)
 
-| Horário | Duração | Atividade |
-|---------|---------|-----------|
-| 08:00-09:00 | 60 min | Tópico Principal - Continuação |
-| 09:00-10:00 | 60 min | Prática/Lab do dia |
-| 10:00-10:30 | 30 min | Livro + Wireshark (revisão) |
-| 10:30-11:00 | 30 min | Revisão Geral |
+| Horário     | Duração | Atividade                      |
+| ----------- | ------- | ------------------------------ |
+| 08:00-09:00 | 60 min  | Tópico Principal - Continuação |
+| 09:00-10:00 | 60 min  | Prática/Lab do dia             |
+| 10:00-10:30 | 30 min  | Livro + Wireshark (revisão)    |
+| 10:30-11:00 | 30 min  | Revisão Geral                  |
 
 ---
 
@@ -240,7 +240,7 @@ tail -f /var/log/syslog                # follow logs
 - 7 camadas OSI
 - Modelo TCP/IP simplificado: Link → Internet → Transport → Application
 - Cada camada tem seu próprio protocolo
-
+ 
 **09:00-10:00 (Visual):**
 - Desenhar modelo em papel ou Excalidraw
 - Associar protocolo a cada camada

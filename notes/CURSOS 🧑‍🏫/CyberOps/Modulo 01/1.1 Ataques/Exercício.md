@@ -1,0 +1,1 @@
+Instalar uma máquina virtual.

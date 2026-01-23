@@ -14,15 +14,15 @@ Componentes físicos:
 ## Software
 Programas dentro do computador (Pode ver mas não pode tocar)
 
-| Tipo                    | Exemplos                    | Função                               |
-| ----------------------- | --------------------------- | ------------------------------------ |
-| **Sistema Operacional** | Windows, Linux              | Gerencia hardware e outros programas |
-| **Navegadores**         | Brave, Firefox              | Acessa internet                      |
-| **Editores de Código**  | Sublime                     | Escreve programas                    |
-| **IDE**                 | VSCode                      | Desenvolve aplicações                |
-| **Ferramentas CLI**     | Bash, Fish                  | Terminal/console                     |
-| **Linguagens**          | Python, JavaScript          | Escrever código                      |
-| **Compiladores**        | GCC                         | Transforma código em executável      |
-| **Antivírus**           | Windows Defender, Kaspersky | Proteção                             |
-| **Gerenciadores**       | npm, apt, pip               | Instala bibliotecas                  |
-| **Git/GitHub**          | Git, GitHub, GitLab         | Versionamento de código              |
+| Tipo                         | Exemplos                    | Função                               |
+| ---------------------------- | --------------------------- | ------------------------------------ |
+| **Sistema Operacional**      | Windows, Linux              | Gerencia hardware e outros programas |
+| **Navegadores**              | Brave, Firefox              | Acessa internet                      |
+| **Editores de Código**       | Sublime                     | Escreve programas                    |
+| **IDE**                      | VSCode                      | Desenvolve aplicações                |
+| **Ferramentas CLI**          | Bash, Fish                  | Terminal/console                     |
+| **Linguagens**               | Python, JavaScript          | Escrever código                      |
+| **Compiladores**             | GCC                         | Transforma código em executável      |
+| **Antivírus**                | Windows Defender, Kaspersky | Proteção                             |
+| **Gerenciadores de pacotes** | npm, apt, pip               | Instala bibliotecas                  |
+| **Git/GitHub**               | Git, GitHub, GitLab         | Versionamento de código              |

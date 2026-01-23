@@ -1,0 +1,10 @@
+- Manhã / Início do dia (1–1.5 h): Livro Análise de Tráfego TCP/IP – leia 15–30 páginas ou revise conceitos que vão aparecer no dia (ex: 5-tuple, protocolos, Wireshark filters). Isso reforça o curso sem roubar tempo.
+- Principal do dia – CyberOps (3–4 h):
+    - 1–2 h: Vídeos/aulas do módulo do dia (assista em 1.25x–1.5x se possível).
+    - 1–2 h: Labs práticos (Wireshark, comandos Linux, análise de logs, Nmap, etc.). Faça todos os labs – são o diferencial para entender e para a prova.
+    - 30–45 min: Quizzes/módulo exam (faça logo após o conteúdo).
+- Noite / Fim do dia (30–60 min):
+    - Python ou Linux leve: 20–30 min de prática (ex: script simples de parsing de logs, grep/awk, ou Python com Scapy/pandas para análise básica).
+    - Ou: Revisão rápida do dia (anotações, flashcards de termos como IOC, false positive, zero trust, AI em SOC – novos no v1.2 2025/2026).
+- Sábado: 5–6 h CyberOps (catch-up + labs grandes) + 1 h livro/Python.
+- Domingo: 2–3 h revisão semanal + off ou leve (exercícios Security+ intro se sobrar energia).

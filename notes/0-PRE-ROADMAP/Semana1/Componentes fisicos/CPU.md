@@ -3,7 +3,7 @@
 **Data:** 21/01/2026  
 **Fase:** PRÉ-ROADMAP  
 **Status:** 🔄 Em andamento  
-**Tempo de Estudo:** [XXX min]
+**Tempo de Estudo:** 68 min
 
 ## ⚙️Recursos
 Link 01: https://roadmap.sh/ai/course/information-technology-it-fundamentals
