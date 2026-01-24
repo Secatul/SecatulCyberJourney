@@ -22,6 +22,8 @@ Imagem de: [electronicdesign.com](https://www.electronicdesign.com/technologies/
 o IMP era um total de 4 centros localizados em 4 universidades do país
 UUCSB, SRI, UCLA e  a Universidade de Utah
 
+Implementando o RFC (Request For Comments) para que os estudantes dessem sua opnião e até mesmo soluções para resolver certos problemas. 
+
 Com planejamento dos estudantes dessas universidades foi planejado então o primeiro protocolo de rede, o NCP mais pra frente começaram estudos tanto para o FTP e a telnet.
 
 E por sorte no ano seguinte, 1969 foi desenvolvido o Unix.
