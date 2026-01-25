@@ -1,0 +1,1 @@
+É uma evolução do DevOps em que a **segurança** vira responsabilidade de todo mundo.
