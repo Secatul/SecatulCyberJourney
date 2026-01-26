@@ -8,3 +8,6 @@
   https://linuxsurvival.com/
 - **CMD Challenge** — Desafios rápidos para treinar comandos de shell direto no navegador.  
   https://cmdchallenge.com/
+
+---
+Shell script: https://www.youtube.com/@debxp/videos
